@@ -18,6 +18,7 @@ console.log(student.concat(b));//add two array
 
 console.log(student.splice(1,2,"css",'104'));//insertion and deletion at same time
 console.log(student);
+
 console.log(student.reverse());//reverse every element in array.
 
 
